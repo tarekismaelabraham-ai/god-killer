@@ -3,3 +3,4 @@ print("How are you");
 if 6 or 7 ;
 else;
 print(67);
+"How are you?"
